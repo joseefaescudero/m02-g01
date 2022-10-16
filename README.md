@@ -2,7 +2,8 @@
 
 Integrantes
 
-- dawdad
-- asdad
+- Lanny Campos
+- Constanza Cornejo
 - Josefa Escudero
-- asdad
+- Isadora Munoz
+- Maria Jose Vega 
